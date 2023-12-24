@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.c6fdc181.css",
+    "main.js": "/reactlivewebsite/static/js/main.3224346a.js",
+    "static/media/profile.jpeg": "/reactlivewebsite/static/media/profile.04cf2a4704940018b1bc.jpeg",
+    "static/media/work1.jpg": "/reactlivewebsite/static/media/work1.310814ed4d4262c1c954.jpg",
+    "static/media/gitu.png": "/reactlivewebsite/static/media/gitu.ba83f5196707afe05215.png",
+    "static/media/instagram.png": "/reactlivewebsite/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/linkedin.png": "/reactlivewebsite/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/github.png": "/reactlivewebsite/static/media/github.648e666260ca9d409a49.png",
+    "static/media/hire.png": "/reactlivewebsite/static/media/hire.8c82445360f2912a1b8a.png",
+    "static/media/contact.png": "/reactlivewebsite/static/media/contact.a51bd9a50d7d01831b64.png",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.c6fdc181.css.map": "/reactlivewebsite/static/css/main.c6fdc181.css.map",
+    "main.3224346a.js.map": "/reactlivewebsite/static/js/main.3224346a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fdc181.css",
+    "static/js/main.3224346a.js"
+  ]
+}
